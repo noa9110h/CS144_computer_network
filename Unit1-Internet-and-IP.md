@@ -1,4 +1,6 @@
 # Unit1-Internet-and-IP
+![image](https://user-images.githubusercontent.com/115979342/196139755-f98c111d-9e38-48ab-8310-b8099bcd6602.png)
+
 
 ### 1-0-internet_and_ip_bookend_start
 
@@ -29,6 +31,8 @@ Datagram, unreliable, best-effort
 
 
 4.link
+![image](https://user-images.githubusercontent.com/115979342/196140440-42bac682-6ba7-4c0e-8808-25f895ad2689.png)
+
 
 通过链路传输数据
 
